@@ -1,8 +1,8 @@
 {
-  "name": "kuaqson.github.io",
+  "name": "shinsh0802.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kuaqson.github.io/resume",
+  "homepage": "https://shinsh0802.github.io/MyCV/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
@@ -11,10 +11,10 @@
     "yarn": "^1.22.19"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
-    "build": "GENERATE_SOURCEMAP=false react-scripts build",
+    "build": "GENERATE_SOURCEMAP=false react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
