@@ -66,7 +66,7 @@ const content = [
             desc: "Build a system to aggregate and provide a large number of quality jobs. Build a system for collecting, reviewing, and filtering millions of job listings. Developing a web-application that will connect consultants and job seekers so that they can increase success rates and discover and build a good career path.",
           },
           {
-            main: "Python, Django, ReactJS, Data Crawler, Postgres",
+            main: "Python, Django, ReactJS",
             desc: "",
           },
         ],
@@ -79,7 +79,7 @@ const content = [
             desc: "Build a system to help students and teachers connect and arrange online learning sessions. Clusters of specific functions such as set up an available class schedule, booking classes, rating teachers, browsing teacher profiles, finding the right classes.",
           },
           {
-            main: "NodeJS, ExpressJS, ReactJS, Ant Design, Sequelize ORM, Postgres",
+            main: "NodeJS, ExpressJS, ReactJS, Ant Design ",
             desc: "",
           },
         ],
@@ -93,7 +93,7 @@ const content = [
             desc: "Build micro services systems to serve projects on aggregating news from many newspapers and magazines. Publish news to video on social platforms. Build a website to publish news aggregated into topics, collections, personalized.",
           },
           {
-            main: "NodeJS, ExpressJS, NestJS, HTML, SCSS, JQUERY, MySQL",
+            main: "NodeJS, ExpressJS , HTML, SCSS, JQUERY, MySQL",
             desc: "",
           },
         ],
@@ -119,20 +119,20 @@ const content = [
             desc: "Build backend restful api and frontend components.",
           },
           {
-            main: "ASP .NETCORE, ReactJS, Redux-Saga, Ant Design",
+            main: " ReactJS, Redux-Saga, Ant Design",
             desc: "",
           },
         ],
       },
       {
-        title: "NBN & INTERNET MANAGEMENT",
+        title: "COTTON SCHOOL ASSOCIATION SYSTEM",
         skills: [
           {
             main: "Main activities",
-            desc: "Build backend api to connect and integrate with third party. Build single-page app for user can registration an internet service.",
+            desc: "Build and scale frontend components for large system to manage student, case review,...",
           },
           {
-            main: "ASP .NET, Angular 6",
+            main: "Reactjs, Bootstrap,",
             desc: "",
           },
         ],
@@ -143,7 +143,7 @@ const content = [
     section: "EDUCATIONAL",
     subs: [
       {
-        title: "SOFTWARE ENGINEERING",
+        title: "INFORMATION SECURITY ENGINEAR",
         skills: [
           {
             main: "Post and Telecommunications Institute of Technology",
@@ -222,9 +222,7 @@ const Header = () => {
 
 const Footer = () => {
   return (
-    <div className="container footer">
-      Nguyễn Quang Sơn - Updated February 2022
-    </div>
+    <div className="container footer">Ngô Sĩ Hoà - Updated February 2023</div>
   );
 };
 
