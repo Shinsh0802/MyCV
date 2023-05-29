@@ -164,7 +164,7 @@ const Header = () => {
           className="avatar_img"
         ></div>
         <div className="author">
-          <h1>NGÔ SĨ HOÀ</h1>
+          <h1>Si Hoa Ngo</h1>
           <div className="job_title">SOFTWARE ENGINEERING</div>
           <div className="contact">
             <div className="contact_item">
