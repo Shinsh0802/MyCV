@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/MyCV/static/css/main.70b65b93.chunk.css",
+    "main.js": "/MyCV/static/js/main.86910fc2.chunk.js",
+    "runtime-main.js": "/MyCV/static/js/runtime-main.532bd2f0.js",
+    "static/js/2.1d797274.chunk.js": "/MyCV/static/js/2.1d797274.chunk.js",
+    "index.html": "/MyCV/index.html",
+    "precache-manifest.95ec76c200eaa1adac32235c2e8db0d2.js": "/MyCV/precache-manifest.95ec76c200eaa1adac32235c2e8db0d2.js",
+    "service-worker.js": "/MyCV/service-worker.js",
+    "static/media/avatar.jpg": "/MyCV/static/media/avatar.628fb699.jpg"
+  }
+}
